@@ -12,3 +12,6 @@ Jan 20: (Ayesha) New dataset added, has around 2K rows of data & script written 
 ### Week 2
 Jan 19: Updated python notebook with completed encoder-decoder code. Still needs a lot of improvements   
 Jan 17: Repo set up
+
+##Week 3
+Jan 25: (Adam) Added 129 rows to Data_EnglishToGloss.csv
